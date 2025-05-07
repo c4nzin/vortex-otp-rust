@@ -19,7 +19,7 @@ Add VortexOTP to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-VortexOTP = "0.1.0"
+VortexOTP = "0.1.4"
 ```
 
 Or, if you are using it from a local path or git repository:
